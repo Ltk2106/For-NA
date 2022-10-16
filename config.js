@@ -10,4 +10,4 @@ const contentCard = 'Nhân ngày 20/10, chúc Ngọc Anh luôn vui vẻ, xinh đ
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
 const giftImage = 'NA.png';
 const base64 = '';
-const giftImageBase64 = "data:image/png;base64, " + base64;
+const giftImageBase64 = "https://www.facebook.com/photo/?fbid=1090039381567696&set=pob.100016849326576://nodemy.vn, " + base64;
